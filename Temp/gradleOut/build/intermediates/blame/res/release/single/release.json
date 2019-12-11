@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\raw_keep_arcore.xml.flat",
+        "source": "C:\\Users\\RUDR\\.gradle\\caches\\transforms-2\\files-2.1\\22d179d8ed216a39dc2d8e1a69aba91b\\res\\raw\\keep_arcore.xml"
+    },
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\RUDR\\.gradle\\caches\\transforms-2\\files-2.1\\22d179d8ed216a39dc2d8e1a69aba91b\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_app_banner.png.flat",
+        "source": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\RUDR\\Documents\\EyeGlasses\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    }
+]
